@@ -1,3 +1,4 @@
+// Solution for HackerRank Problem "RED JOHN IS BACK"
 import java.util.Arrays;
 import java.util.Scanner;
 

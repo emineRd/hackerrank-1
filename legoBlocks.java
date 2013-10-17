@@ -1,3 +1,4 @@
+// Solution for HackerRank Problem "LEGO BLOCKS"
 import java.util.Scanner;
 
 
